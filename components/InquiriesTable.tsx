@@ -55,7 +55,6 @@ export default function InquiriesTable() {
             <th>Customer</th>
             <th>Email</th>
             <th>Message</th>
-            <th>Status</th>
             <th>Actions</th>
           </tr>
         </thead>
