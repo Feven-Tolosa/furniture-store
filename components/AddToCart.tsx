@@ -1,4 +1,3 @@
-// components/AddToCart.tsx
 'use client'
 import { useCart } from '@/lib/store/cart-store'
 
